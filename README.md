@@ -140,7 +140,7 @@ El objetivo principal es facilitar el acceso a toda mi información desde un sol
 ## 🎥 Video Demostrativo
 
 - **Video YouTube:**
-  https://youtu.be/dDzvXziqOEM?si=Wo7k96Y0cvWAhLjb
+ https://youtu.be/dDzvXziqOEM?si=Wo7k96Y0cvWAhLjb
 
 ---
 
