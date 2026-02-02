@@ -40,22 +40,19 @@ The main goal is to make all my information easily accessible from one link, esp
 
 ## 🚀 Deployment
 
-- **GitHub Pages:**  
-  https://squirosdev.github.io/link_tree/
+- **GitHub Pages:** https://squirosdev.github.io/link_tree/
 
 ---
 
 ## 📂 Repository
 
-- **GitHub Repository:**  
-  https://github.com/SQuirosDev/Link-Tree
+- **GitHub Repository:** https://github.com/SQuirosDev/Link-Tree
 
 ---
 
 ## 🎥 Demo Video
 
-- **YouTube Video:**
-  https://youtu.be/dDzvXziqOEM?si=Wo7k96Y0cvWAhLjb
+- **YouTube Video:** https://youtu.be/dDzvXziqOEM?si=Wo7k96Y0cvWAhLjb
 
 ---
 
@@ -125,22 +122,19 @@ El objetivo principal es facilitar el acceso a toda mi información desde un sol
 
 ## 🚀 Deploy
 
-- **GitHub Pages:**  
-  https://squirosdev.github.io/link_tree/
+- **GitHub Pages:** https://squirosdev.github.io/link_tree/
 
 ---
 
 ## 📂 Repositorio
 
-- **Repositorio GitHub:**
-  https://github.com/SQuirosDev/Link-Tree
+- **Repositorio GitHub:** https://github.com/SQuirosDev/Link-Tree
 
 ---
 
 ## 🎥 Video Demostrativo
 
-- **Video YouTube:**
-  https://youtu.be/dDzvXziqOEM?si=Wo7k96Y0cvWAhLjb
+- **Video YouTube:** https://youtu.be/dDzvXziqOEM?si=Wo7k96Y0cvWAhLjb
 
 ---
 
